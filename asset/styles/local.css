@@ -1,0 +1,1356 @@
+@media screen and (max-width: 576px) {
+  #nav-bar {
+    min-width: 100%;
+    padding: 40px 20px;
+  }
+  #header-content-title > h1 {
+    font-size: 45px;
+    line-height: 45px;
+    text-align: center;
+  }
+  #header-content-title > p {
+    font-size: 20px;
+    text-align: center;
+  }
+  .services-card {
+    margin-top: 25px;
+  }
+  #about-back {
+    left: -70%;
+  }
+  #about-content > section {
+    width: 100%;
+  }
+  #about-content-title {
+    align-items: center;
+  }
+  #about-content-title > h3 {
+    font-size: 45px;
+    text-align: center;
+  }
+  #about-content-title > p {
+    font-size: 18px;
+    text-align: center;
+  }
+  #partners-title > h3 {
+    font-size: 45px;
+  }
+  #partners-boxes {
+    width: 80%;
+    flex-wrap: wrap;
+  }
+  .partners-box {
+    margin-top: 25px;
+  }
+  #we-back-1 {
+    top: 0%;
+  }
+  #we-back-1 > img {
+    width: 1000px;
+  }
+  #we-back-2 {
+    bottom: 0%;
+  }
+  #we-back-2 > img {
+    width: 1000px;
+  }
+  #who-we {
+    padding: 50px 0;
+  }
+  #who-we-title {
+    align-items: center;
+    padding-left: 0;
+    padding: 0 2%;
+  }
+  #who-we-title > h3 {
+    font-size: 45px;
+    text-align: center;
+  }
+  #who-we-title > p {
+    font-size: 18px;
+    text-align: center;
+  }
+  #who-we-title > div > span {
+    width: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  #what-we-title {
+    align-items: center;
+    padding-left: 0%;
+  }
+  #what-we-title > h3 {
+    font-size: 45px;
+    text-align: center;
+  }
+  #what-we-title > p {
+    font-size: 18px;
+    text-align: center;
+  }
+  #what-we-title > div {
+    width: 500px;
+  }
+  #what-we-title > div > span > figure {
+    width: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  #what-we-title > div > span div {
+    width: 70%;
+    padding-left: 10px;
+  }
+  #what-we-title > div > span div > h3 {
+    text-align: center;
+  }
+  #what-we-title > div > span div > p {
+    text-align: center;
+  }
+  #offer-title > h3 {
+    font-size: 45px;
+  }
+  #offer-content {
+    padding: 40px 50px;
+  }
+  .offer-content-card {
+    margin-top: 35px;
+  }
+  #team {
+    width: 100%;
+    padding: 100px 0;
+    position: relative;
+    overflow: hidden;
+  }
+  #team > div {
+    min-height: 600px;
+  }
+  #team-title {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 0%;
+    align-items: center;
+  }
+  #team-title > h3 {
+    text-align: center;
+    font-size: 45px;
+  }
+  #team-title > p {
+    font-size: 18px;
+    text-align: center;
+  }
+  #team-cards {
+    width: 500px;
+  }
+  #quotation > p {
+    font-size: 30px;
+  }
+  #message {
+    width: 100%;
+    padding: 100px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    overflow: hidden;
+  }
+  #message-back {
+    top: 0;
+    z-index: -1;
+  }
+  #message-back > img {
+    width: 1000px;
+  }
+  #message-title > h3 {
+    font-size: 45px;
+  }
+  #message-form {
+    width: 98%;
+  }
+  footer {
+    width: 100%;
+    background-color: #171D34;
+    padding: 100px 0;
+    display: flex;
+    justify-content: center;
+  }
+  footer > section {
+    min-width: 380px;
+  }
+  #footer-media {
+    text-align: center;
+  }
+  #footer-media > div {
+    justify-content: center;
+  }
+  #footer-info {
+    margin-top: 40px !important;
+    display: flex;
+  }
+  #footer-info > ul {
+    width: 50%;
+    padding-left: 60px;
+  }
+  #footer-singup {
+    margin-top: 40px;
+  }
+}
+@media screen and (min-width: 576px) {
+  #nav-bar {
+    min-width: 90%;
+    padding: 40px 0px;
+  }
+  #header-content-title > h1 {
+    font-size: 52px;
+    line-height: 45px;
+    text-align: start;
+  }
+  #header-content-title > p {
+    font-size: 20px;
+    text-align: start;
+  }
+  .services-card {
+    margin-top: 25px;
+  }
+  #about-back {
+    left: -70%;
+  }
+  #about-content > section {
+    width: 100%;
+  }
+  #about-content-title {
+    align-items: center;
+  }
+  #about-content-title > h3 {
+    font-size: 45px;
+    text-align: center;
+  }
+  #about-content-title > p {
+    font-size: 18px;
+    text-align: center;
+  }
+  #partners-title > h3 {
+    font-size: 45px;
+  }
+  #partners-boxes {
+    width: 80%;
+    flex-wrap: wrap;
+  }
+  .partners-box {
+    margin-top: 25px;
+  }
+  #we-back-1 {
+    top: 0%;
+  }
+  #we-back-1 > img {
+    width: 1000px;
+  }
+  #we-back-2 {
+    bottom: 0%;
+  }
+  #we-back-2 > img {
+    width: 1000px;
+  }
+  #who-we {
+    padding: 50px 0;
+  }
+  #who-we-title {
+    align-items: center;
+    padding-left: 0;
+    padding: 0 2%;
+  }
+  #who-we-title > h3 {
+    font-size: 45px;
+    text-align: center;
+  }
+  #who-we-title > p {
+    font-size: 18px;
+    text-align: center;
+  }
+  #who-we-title > div > span {
+    width: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  #what-we-title {
+    align-items: center;
+    padding-left: 0%;
+  }
+  #what-we-title > h3 {
+    font-size: 45px;
+    text-align: center;
+  }
+  #what-we-title > p {
+    font-size: 18px;
+    text-align: center;
+  }
+  #what-we-title > div {
+    width: 500px;
+  }
+  #what-we-title > div > span > figure {
+    width: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  #what-we-title > div > span div {
+    width: 70%;
+    padding-left: 10px;
+  }
+  #what-we-title > div > span div > h3 {
+    text-align: center;
+  }
+  #what-we-title > div > span div > p {
+    text-align: center;
+  }
+  #offer-title > h3 {
+    font-size: 45px;
+  }
+  #offer-content {
+    padding: 40px 50px;
+  }
+  .offer-content-card {
+    margin-top: 35px;
+  }
+  #team {
+    width: 100%;
+    padding: 100px 0;
+    position: relative;
+    overflow: hidden;
+  }
+  #team > div {
+    min-height: 600px;
+  }
+  #team-title {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 0%;
+    align-items: center;
+  }
+  #team-title > h3 {
+    text-align: center;
+    font-size: 45px;
+  }
+  #team-title > p {
+    font-size: 18px;
+    text-align: center;
+  }
+  #team-img {
+    display: flex;
+    justify-content: center;
+  }
+  #team-cards {
+    width: 600px;
+  }
+  #quotation > p {
+    font-size: 30px;
+  }
+  #message {
+    width: 100%;
+    padding: 100px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    overflow: hidden;
+  }
+  #message-back {
+    top: 0;
+    z-index: -1;
+  }
+  #message-back > img {
+    width: 1000px;
+  }
+  #message-title > h3 {
+    font-size: 45px;
+  }
+  #message-form {
+    width: 98%;
+  }
+  footer {
+    width: 100%;
+    background-color: #171D34;
+    padding: 100px 0;
+    display: flex;
+    justify-content: center;
+  }
+  footer > section {
+    min-width: 380px;
+  }
+  #footer-media {
+    text-align: center;
+  }
+  #footer-media > div {
+    justify-content: center;
+  }
+  #footer-info {
+    margin-top: 40px !important;
+    display: flex;
+  }
+  #footer-info > ul {
+    width: 50%;
+    padding-left: 60px;
+  }
+  #footer-singup {
+    margin-top: 40px;
+  }
+}
+@media screen and (min-width: 768px) {
+  #nav-bar {
+    min-width: 100%;
+    padding: 40px 0px;
+  }
+  #nav-bar {
+    min-width: 95%;
+  }
+  #nav-menu-desktop > ul > li {
+    padding: 0 20px;
+  }
+  #header-content-title > h1 {
+    font-size: 52px;
+    line-height: 45px;
+    text-align: start;
+  }
+  #header-content-title > p {
+    font-size: 20px;
+    text-align: start;
+  }
+  .services-card {
+    margin-top: 25px;
+  }
+  #about-back {
+    left: -70%;
+  }
+  #about-content > section {
+    width: 100%;
+  }
+  #about-content-title {
+    align-items: center;
+  }
+  #about-content-title > h3 {
+    font-size: 45px;
+    text-align: center;
+  }
+  #about-content-title > p {
+    font-size: 18px;
+    text-align: center;
+  }
+  #partners-title > h3 {
+    font-size: 45px;
+  }
+  #partners-boxes {
+    width: 80%;
+    flex-wrap: wrap;
+  }
+  .partners-box {
+    margin-top: 25px;
+  }
+  #we-back-1 {
+    top: 0%;
+  }
+  #we-back-1 > img {
+    width: 1000px;
+  }
+  #we-back-2 {
+    bottom: 0%;
+  }
+  #we-back-2 > img {
+    width: 1000px;
+  }
+  #who-we {
+    padding: 50px 0;
+  }
+  #who-we-title {
+    align-items: center;
+    padding-left: 0;
+    padding: 0 2%;
+    width: 100%;
+  }
+  #who-we-title > h3 {
+    font-size: 45px;
+    text-align: center;
+  }
+  #who-we-title > p {
+    font-size: 18px;
+    text-align: center;
+  }
+  #who-we-title > div > span {
+    width: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  #what-we-title {
+    align-items: center;
+    padding-left: 0%;
+    width: 100%;
+  }
+  #what-we-title > h3 {
+    font-size: 45px;
+    text-align: center;
+  }
+  #what-we-title > p {
+    font-size: 18px;
+    text-align: center;
+  }
+  #what-we-title > div {
+    width: 500px;
+  }
+  #what-we-title > div > span > figure {
+    width: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  #what-we-title > div > span div {
+    width: 70%;
+    padding-left: 10px;
+  }
+  #what-we-title > div > span div > h3 {
+    text-align: center;
+  }
+  #what-we-title > div > span div > p {
+    text-align: center;
+  }
+  #offer-title > h3 {
+    font-size: 45px;
+  }
+  #offer-content {
+    padding: 40px 0px;
+    min-width: 100%;
+  }
+  .offer-content-card {
+    margin-top: 35px;
+  }
+  #team {
+    width: 100%;
+    padding: 100px 0;
+    position: relative;
+    overflow: hidden;
+  }
+  #team > div {
+    min-height: 600px;
+  }
+  #team-title {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 0%;
+    align-items: center;
+  }
+  #team-title > h3 {
+    text-align: center;
+    font-size: 45px;
+  }
+  #team-title > p {
+    font-size: 18px;
+    text-align: center;
+  }
+  #team-img {
+    display: flex;
+    justify-content: center;
+  }
+  #team-cards {
+    width: 600px;
+  }
+  #quotation > p {
+    font-size: 30px;
+  }
+  #message {
+    width: 100%;
+    padding: 100px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    overflow: hidden;
+  }
+  #message-back {
+    position: absolute;
+    left: -41%;
+    top: -225px;
+    z-index: -1;
+  }
+  #message-back > img {
+    animation: star 10s ease-out infinite;
+    width: 1600px;
+  }
+  #message-title > h3 {
+    font-size: 45px;
+  }
+  #message-form {
+    width: 70%;
+  }
+  footer {
+    width: 100%;
+    background-color: #171D34;
+    padding: 100px 0;
+    display: flex;
+    justify-content: center;
+  }
+  footer > section {
+    min-width: 380px;
+  }
+  #footer-media {
+    text-align: start;
+    padding-left: 5%;
+  }
+  #footer-media > div {
+    justify-content: start;
+  }
+  #footer-info {
+    margin-top: 0 !important;
+    display: flex;
+  }
+  #footer-info > ul {
+    width: 50%;
+    padding-left: 0;
+  }
+  #footer-singup {
+    margin-top: 40px;
+  }
+}
+@media screen and (min-width: 1200px) {
+  #nav-bar {
+    min-width: 100%;
+    padding: 40px 0px;
+  }
+  #nav-bar {
+    min-width: 95%;
+  }
+  #nav-menu-desktop > ul > li {
+    padding: 0 25px;
+  }
+  #header-content {
+    width: 95%;
+  }
+  #header-content-title > h1 {
+    font-size: 52px;
+    line-height: 45px;
+    text-align: start;
+  }
+  #header-content-title > p {
+    font-size: 20px;
+    text-align: start;
+  }
+  #header-content-img {
+    display: flex;
+    justify-content: end;
+    align-items: center;
+  }
+  #header-content-img > figure > img {
+    width: 500px;
+  }
+  .services-card {
+    margin-top: 25px;
+  }
+  #about-back {
+    left: -70%;
+  }
+  #about-content > section {
+    width: 100%;
+  }
+  #about-content-title {
+    align-items: center;
+  }
+  #about-content-title > h3 {
+    font-size: 45px;
+    text-align: center;
+  }
+  #about-content-title > p {
+    font-size: 18px;
+    text-align: center;
+  }
+  #partners-title > h3 {
+    font-size: 45px;
+  }
+  #partners-boxes {
+    width: 80%;
+    flex-wrap: wrap;
+  }
+  .partners-box {
+    margin-top: 25px;
+  }
+  #we-back-1 {
+    top: 0%;
+  }
+  #we-back-1 > img {
+    width: 1000px;
+  }
+  #we-back-2 {
+    bottom: 0%;
+  }
+  #we-back-2 > img {
+    width: 1000px;
+  }
+  #who-we {
+    padding: 50px 0;
+  }
+  #who-we-title {
+    align-items: center;
+    padding-left: 0;
+    padding: 0 2%;
+    width: 100%;
+  }
+  #who-we-title > h3 {
+    font-size: 45px;
+    text-align: center;
+  }
+  #who-we-title > p {
+    font-size: 18px;
+    text-align: center;
+  }
+  #who-we-title > div > span {
+    width: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  #what-we-title {
+    align-items: center;
+    padding-left: 0%;
+    width: 100%;
+  }
+  #what-we-title > h3 {
+    font-size: 45px;
+    text-align: center;
+  }
+  #what-we-title > p {
+    font-size: 18px;
+    text-align: center;
+  }
+  #what-we-title > div {
+    width: 500px;
+  }
+  #what-we-title > div > span > figure {
+    width: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  #what-we-title > div > span div {
+    width: 70%;
+    padding-left: 10px;
+  }
+  #what-we-title > div > span div > h3 {
+    text-align: center;
+  }
+  #what-we-title > div > span div > p {
+    text-align: center;
+  }
+  #offer-title > h3 {
+    font-size: 45px;
+  }
+  #offer-content {
+    padding: 40px 0px;
+    min-width: 100%;
+  }
+  .offer-content-card {
+    margin-top: 35px;
+  }
+  #team {
+    width: 100%;
+    padding: 100px 0;
+    position: relative;
+    overflow: hidden;
+  }
+  #team > div {
+    min-height: 600px;
+  }
+  #team-title {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 0%;
+    align-items: center;
+  }
+  #team-title > h3 {
+    text-align: center;
+    font-size: 45px;
+  }
+  #team-title > p {
+    font-size: 18px;
+    text-align: center;
+  }
+  #team-img {
+    display: flex;
+    justify-content: center;
+  }
+  #team-cards {
+    width: 600px;
+  }
+  #quotation > p {
+    font-size: 30px;
+  }
+  #message {
+    width: 100%;
+    padding: 100px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    overflow: hidden;
+  }
+  #message-back {
+    position: absolute;
+    left: -41%;
+    top: -225px;
+    z-index: -1;
+  }
+  #message-back > img {
+    animation: star 10s ease-out infinite;
+    width: 1600px;
+  }
+  #message-title > h3 {
+    font-size: 45px;
+  }
+  #message-form {
+    width: 70%;
+  }
+  footer {
+    width: 100%;
+    background-color: #171D34;
+    padding: 100px 0;
+    display: flex;
+    justify-content: center;
+  }
+  footer > section {
+    min-width: 380px;
+  }
+  #footer-media {
+    text-align: start;
+    padding-left: 5%;
+  }
+  #footer-media > div {
+    justify-content: start;
+  }
+  #footer-info {
+    margin-top: 0 !important;
+    display: flex;
+  }
+  #footer-info > ul {
+    width: 50%;
+    padding-left: 0;
+  }
+  #footer-singup {
+    margin-top: 40px;
+  }
+}
+@media screen and (min-width: 1400px) {
+  #nav-bar {
+    min-width: 85%;
+    padding: 40px 0px;
+  }
+  #nav-menu-desktop > ul > li {
+    padding: 0 30px;
+  }
+  #header-content {
+    width: 85%;
+  }
+  #header-content-title > h1 {
+    font-size: 52px;
+    line-height: 45px;
+    text-align: start;
+  }
+  #header-content-title > p {
+    font-size: 20px;
+    text-align: start;
+  }
+  #header-content-img {
+    display: flex;
+    justify-content: end;
+    align-items: center;
+  }
+  #header-content-img > figure > img {
+    width: 500px;
+  }
+  #services-cards {
+    width: 90%;
+  }
+  .services-card {
+    margin-top: 25px;
+  }
+  #about-back {
+    left: -70%;
+  }
+  #about-circle {
+    position: absolute;
+    top: -27%;
+    right: -13%;
+    z-index: -1;
+  }
+  #about-content > section {
+    width: 50%;
+  }
+  #about-content-img > figure:nth-of-type(1) {
+    top: 8%;
+    right: 30%;
+  }
+  #about-content-title {
+    padding-left: 20px;
+    align-items: start;
+  }
+  #about-content-title > h3 {
+    font-size: 45px;
+    text-align: start;
+  }
+  #about-content-title > p {
+    font-size: 18px;
+    text-align: start;
+  }
+  #partners-title > h3 {
+    font-size: 45px;
+  }
+  #partners-boxes {
+    width: 80%;
+    flex-wrap: wrap;
+  }
+  .partners-box {
+    margin-top: 25px;
+  }
+  #we-back-1 {
+    top: 0%;
+  }
+  #we-back-1 > img {
+    width: 1000px;
+  }
+  #we-back-2 {
+    bottom: 0%;
+  }
+  #we-back-2 > img {
+    width: 1000px;
+  }
+  #circle-we-top {
+    position: absolute;
+    top: -15%;
+    left: -15%;
+    z-index: -1;
+  }
+  #circle-we-bottom {
+    position: absolute;
+    bottom: -15%;
+    right: -15%;
+    z-index: -1;
+  }
+  #who-we {
+    padding: 50px 0;
+  }
+  #who-we-title {
+    align-items: start;
+    padding: 0 0;
+    padding-left: 10%;
+    width: 50%;
+  }
+  #who-we-title > h3 {
+    font-size: 45px;
+    text-align: start;
+  }
+  #who-we-title > p {
+    font-size: 18px;
+    text-align: start;
+  }
+  #who-we-title > div > span {
+    width: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+  }
+  #what-we-title {
+    align-items: start;
+    padding-left: 5%;
+    width: 50%;
+  }
+  #what-we-title > h3 {
+    font-size: 45px;
+    text-align: start;
+  }
+  #what-we-title > p {
+    font-size: 18px;
+    text-align: start;
+  }
+  #what-we-title > div {
+    width: 500px;
+  }
+  #what-we-title > div > span > figure {
+    width: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  #what-we-title > div > span div {
+    width: 70%;
+    padding-left: 10px;
+  }
+  #what-we-title > div > span div > h3 {
+    text-align: center;
+  }
+  #what-we-title > div > span div > p {
+    text-align: center;
+  }
+  #offer-title > h3 {
+    font-size: 45px;
+  }
+  #offer-content {
+    padding: 40px 0px;
+    min-width: 100%;
+  }
+  .offer-content-card {
+    margin-top: 35px;
+  }
+  #team {
+    width: 100%;
+    padding: 100px 0;
+    position: relative;
+    overflow: hidden;
+  }
+  #team > div {
+    min-height: 600px;
+  }
+  #team-title {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 15%;
+    align-items: start;
+  }
+  #team-title > h3 {
+    text-align: start;
+    font-size: 45px;
+  }
+  #team-title > p {
+    font-size: 18px;
+    text-align: start;
+  }
+  #team-img {
+    display: flex;
+    justify-content: center;
+  }
+  #team-cards {
+    width: 600px;
+  }
+  #quotation > p {
+    font-size: 30px;
+  }
+  #message {
+    width: 100%;
+    padding: 100px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    overflow: hidden;
+  }
+  #message-back {
+    position: absolute;
+    left: -41%;
+    top: -225px;
+    z-index: -1;
+  }
+  #message-back > img {
+    animation: star 10s ease-out infinite;
+    width: 1600px;
+  }
+  #message-circle {
+    position: absolute;
+    bottom: -35%;
+    right: -15%;
+    z-index: -1;
+  }
+  #message-title > h3 {
+    font-size: 45px;
+  }
+  #message-form {
+    width: 70%;
+  }
+  footer {
+    width: 100%;
+    background-color: #171D34;
+    padding: 100px 0;
+    display: flex;
+    justify-content: center;
+  }
+  footer > section {
+    min-width: 380px;
+  }
+  #footer-media {
+    text-align: start;
+    padding-left: 0%;
+  }
+  #footer-media > div {
+    justify-content: start;
+  }
+  #footer-info {
+    margin-top: 0 !important;
+    display: flex;
+  }
+  #footer-info > ul {
+    width: 50%;
+    padding-left: 0;
+  }
+  #footer-singup {
+    margin-top: 40px;
+    align-items: end;
+  }
+}
+@media screen and (min-width: 1600px) {
+  #nav-bar {
+    min-width: 70%;
+    padding: 40px 0px;
+  }
+  #nav-menu-desktop > ul > li {
+    padding: 0 35px;
+  }
+  #header-content {
+    width: 70%;
+  }
+  #header-content-title > h1 {
+    font-size: 70px;
+    line-height: 67px;
+    text-align: start;
+  }
+  #header-content-title > p {
+    font-size: 22px;
+    text-align: start;
+  }
+  #header-content-img {
+    display: flex;
+    justify-content: end;
+    align-items: center;
+  }
+  #header-content-img > figure > img {
+    width: 110%;
+  }
+  #services-cards {
+    width: 65%;
+  }
+  .services-card {
+    margin-top: 10px;
+  }
+  #about-back {
+    left: -41%;
+  }
+  #about-circle {
+    position: absolute;
+    top: -22%;
+    right: -8%;
+    z-index: -1;
+  }
+  #about-content > section {
+    width: 50%;
+  }
+  #about-content-img > figure:nth-of-type(1) {
+    top: 8%;
+    right: 23%;
+  }
+  #about-content-title {
+    padding-left: 20px;
+    align-items: start;
+  }
+  #about-content-title > h3 {
+    font-size: 52px;
+    text-align: start;
+  }
+  #about-content-title > p {
+    font-size: 20px;
+    text-align: start;
+  }
+  #partners-title > h3 {
+    font-size: 52px;
+  }
+  #partners-boxes {
+    width: 70%;
+    flex-wrap: wrap;
+  }
+  .partners-box {
+    margin-top: 0px;
+  }
+  #we-back-1 {
+    position: absolute;
+    top: -30%;
+    right: -26%;
+    z-index: -1;
+  }
+  #we-back-1 > img {
+    width: 1600px;
+  }
+  #we-back-2 {
+    position: absolute;
+    bottom: -12%;
+    left: -42%;
+    z-index: -1;
+  }
+  #we-back-2 > img {
+    width: 1600px;
+  }
+  #circle-we-top {
+    position: absolute;
+    top: -10%;
+    left: -10%;
+    z-index: -1;
+  }
+  #circle-we-bottom {
+    position: absolute;
+    bottom: -10%;
+    right: -10%;
+    z-index: -1;
+  }
+  #who-we {
+    padding: 100px 0;
+  }
+  #who-we-title {
+    align-items: start;
+    padding: 0 0;
+    padding-left: 15%;
+    width: 50%;
+  }
+  #who-we-title > h3 {
+    font-size: 52px;
+    text-align: start;
+  }
+  #who-we-title > p {
+    font-size: 20px;
+    text-align: start;
+  }
+  #who-we-title > div > span {
+    width: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+  }
+  #what-we-title {
+    align-items: start;
+    padding-left: 5%;
+    width: 50%;
+  }
+  #what-we-title > h3 {
+    font-size: 52px;
+    text-align: start;
+  }
+  #what-we-title > p {
+    font-size: 20px;
+    text-align: start;
+  }
+  #what-we-title > div {
+    width: 500px;
+  }
+  #what-we-title > div > span > figure {
+    width: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  #what-we-title > div > span div {
+    width: 70%;
+    padding-left: 10px;
+  }
+  #what-we-title > div > span div > h3 {
+    text-align: center;
+  }
+  #what-we-title > div > span div > p {
+    text-align: center;
+  }
+  #offer-title > h3 {
+    font-size: 52px;
+  }
+  #offer-content {
+    padding: 40px 0px;
+    min-width: 60%;
+  }
+  .offer-content-card {
+    margin-top: 0px;
+  }
+  #team {
+    width: 100%;
+    padding: 100px 0;
+    position: relative;
+    overflow: hidden;
+  }
+  #team > div {
+    min-height: 600px;
+  }
+  #team-title {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 22%;
+    align-items: start;
+  }
+  #team-title > h3 {
+    text-align: start;
+    font-size: 52px;
+  }
+  #team-title > p {
+    font-size: 20px;
+    text-align: start;
+  }
+  #team-img {
+    display: flex;
+    justify-content: start;
+  }
+  #team-cards {
+    width: 600px;
+  }
+  #quotation > p {
+    font-size: 36px;
+  }
+  #message-back {
+    position: absolute;
+    left: -41%;
+    top: -225px;
+    z-index: -1;
+  }
+  #message-back > img {
+    animation: star 10s ease-out infinite;
+    width: 1600px;
+  }
+  #message-circle {
+    position: absolute;
+    bottom: -30%;
+    right: -10%;
+    z-index: -1;
+  }
+  #message-title > h3 {
+    font-size: 52px;
+  }
+  #message-form {
+    width: 60%;
+  }
+  footer {
+    width: 100%;
+    background-color: #171D34;
+    padding: 100px 0;
+    display: flex;
+    justify-content: center;
+  }
+  footer > section {
+    min-width: 380px;
+  }
+  #footer-media {
+    text-align: start;
+    padding-left: 0%;
+  }
+  #footer-media > div {
+    justify-content: start;
+  }
+  #footer-info {
+    margin-top: 0 !important;
+    display: flex;
+  }
+  #footer-info > ul {
+    width: 50%;
+    padding-left: 0;
+  }
+  #footer-singup {
+    margin-top: 40px;
+    align-items: end;
+  }
+}/*# sourceMappingURL=local.css.map */
